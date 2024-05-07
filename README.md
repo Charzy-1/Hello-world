@@ -32,10 +32,9 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Chill Academy README Template</b></h3>
+  <h3><b>Welcome to Chill Academy README</b></h3>
 
 </div>
 
@@ -60,61 +59,41 @@ For more information on the importance of a professional README for your reposit
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello_Chill_Academy] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello_Chill_Academy]** is a project assigned to me to ascertain a level of understaning of git collaboration and how efficient i can use github. It exposed me to the real world of coding collaboration where i have my code reviewers from rond the world. I was able to create a branch and have it merged afterwards with the main brach after the review.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Html_heading]**
+- **[Blue_styled_css]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -123,9 +102,6 @@ For more information on the importance of a professional README for your reposit
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -155,7 +131,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+If you have vscode you are good to go
 
 <!--
 Example command:
@@ -168,7 +144,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, navigate to where this directory is on your vscode to run or can still be run on the browser
 
 <!--
 Example command:
@@ -180,7 +156,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+-
 
 <!--
 Example command:
@@ -192,7 +168,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+-
 
 <!--
 Example:
@@ -230,9 +206,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[butons]**
+- [ ] **[nav_bar]**
+- [ ] **[animations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,9 +226,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Feel free to support this project by making some right modifications that will help me grow.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,25 +234,12 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+A big thank you goes to the entire staff of Chill academy for the privilege given to me to work on this project most especially Mpk and Basit for their assistance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
